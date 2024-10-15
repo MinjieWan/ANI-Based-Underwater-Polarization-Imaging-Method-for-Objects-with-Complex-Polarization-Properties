@@ -1,4 +1,4 @@
-![111](https://github.com/user-attachments/assets/a6385551-4fe9-4b4c-9994-5e5c2e787b70)# Active Non-uniform Illumination-Based Underwater Polarization Imaging Method for Objects with Complex Polarization Properties
+# Active Non-uniform Illumination-Based Underwater Polarization Imaging Method for Objects with Complex Polarization Properties
 This repository contains the codes for our published paper "Active non-uniform illumination-based underwater polarization imaging method for objects with complex polarization properties".
 
 ## Abstract
