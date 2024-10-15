@@ -16,7 +16,7 @@ The following figure shows the underwater imaging results of different enhanceme
 </div>
 
 # Usage
-- Matlab 2023a
+- Matlab 2023b
 - Run main.m to test our codes
 
 # Citation
