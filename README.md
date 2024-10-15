@@ -7,7 +7,7 @@ Active polarization imaging is one of the most effective underwater optical imag
 ![绘图2](https://github.com/user-attachments/assets/6950a9a2-5779-4eb0-83f8-30d1fef1ddff)
 
 ## Results
-The following figure shows the underwater imgaging results of different enhancement algorithms for different scenes in different turbidity water.
+The following figure shows the underwater imaging results of different enhancement algorithms for different scenes in different turbidity water.
 
 ![绘图1](https://github.com/user-attachments/assets/128e840a-c5ae-4cbb-93ea-cfe0bdfed509)
 
