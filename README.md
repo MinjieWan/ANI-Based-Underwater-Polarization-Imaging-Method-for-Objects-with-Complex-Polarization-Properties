@@ -19,5 +19,3 @@ The following figure shows the underwater imgaging results of different enhancem
 If you use our code and dataset for research, please cite our paper:
 
 Wang J, Wan M, Cao X, et al. Active non-uniform illumination-based underwater polarization imaging method for objects with complex polarization properties[J]. Optics Express, 2022, 30(26): 46926-46943.
-
-- 
