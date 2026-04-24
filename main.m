@@ -53,7 +53,7 @@ Ix=I;
 
 c1= 50;%c1的取值一般介于20~120之间，50 for Scene1_LT,80 for Scene1_HT, 55 for Scene2_LT,100 for Scene2_HT
 
-K1=1/(sqrt(2*pi)*c1);
+K1=1/((2*pi)*c1*c1);
 
 for i=1:m
     for j=1:n
